@@ -1,0 +1,5 @@
+Tahta Dosya Adı		Sonuçlar
+board3.txt		Siyah Sonuç: 108	Beyaz Sonuç: 109
+board3.txt		Siyah Sonuç: 108	Beyaz Sonuç: 109
+board3.txt		Siyah Sonuç: 108	Beyaz Sonuç: 109
+board1.txt		Siyah Sonuç: 135	Beyaz Sonuç: 134,5

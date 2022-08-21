@@ -1,0 +1,16 @@
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\bin\Debug\netcoreapp3.1\cs-tech_satranc.exe
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\bin\Debug\netcoreapp3.1\cs-tech_satranc.deps.json
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\bin\Debug\netcoreapp3.1\cs-tech_satranc.runtimeconfig.json
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\bin\Debug\netcoreapp3.1\cs-tech_satranc.runtimeconfig.dev.json
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\bin\Debug\netcoreapp3.1\cs-tech_satranc.dll
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\bin\Debug\netcoreapp3.1\cs-tech_satranc.pdb
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs_tech_satranc.Form1.resources
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.csproj.GenerateResource.cache
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.AssemblyInfo.cs
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.dll
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.pdb
+C:\Users\talha\source\repos\cs-tech_satranc\cs-tech_satranc\obj\Debug\netcoreapp3.1\cs-tech_satranc.genruntimeconfig.cache
